@@ -11,7 +11,7 @@ local autoKillsEnabled = false
 local skillThreads = {}
 local m1Thread = nil
 local currentTarget = nil
-local DISTANCE = 5
+local DISTANCE = 3
 local selectedPlayers = {}
 
 -- Zoom variables
